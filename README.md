@@ -31,3 +31,5 @@ Step 3: Tag/Push image to docker hub repo
 Step 4: Automate build starts
 
   - Push commits to github repo, watch docker hub Repo page > build details Tab
+
+![Imgur](http://giphy.com/gifs/l0DELsRo6txf8Zi9i)
