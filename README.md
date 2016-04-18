@@ -1,6 +1,6 @@
 # docker-automate
 
-Step 1: setup public repo automated build
+Step 1: Setup public repo automated build
   - Create a github public repo with Dockerfile
   - goto github repo settings > webhook > services > add docker
   - goto docker hub page, log in
