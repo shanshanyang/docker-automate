@@ -1,3 +1,3 @@
 # docker-automate
 
-simple dockerfile with echo "Hello Docker"
+simple dockerfile with echo "Hello Docker!"
