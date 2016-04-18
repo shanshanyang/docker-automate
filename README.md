@@ -32,4 +32,4 @@ Step 4: Automate build starts
 
   - Push commits to github repo, watch docker hub Repo page > build details Tab
 
-![Imgur](http://giphy.com/gifs/l0DELsRo6txf8Zi9i)
+![Giphy](https://media.giphy.com/media/l0DELsRo6txf8Zi9i/giphy.gif)
